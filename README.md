@@ -1,4 +1,9 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm <a href="https://github.com/hamonidev" target="_blank">Gui!</a></h2>
+<p align="center"><b>I’m a developer who mainly works with C#</b></p>
+
+- ⚡ I’m currently working on game development and improving my C# skills.
+
+- 💻 On the side, I’m experimenting with small creative projects.
 
 <!--
 **hamonidev/hamonidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
